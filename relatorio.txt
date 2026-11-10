@@ -1,0 +1,18 @@
+=================================
+RELATORIO DE ESTOQUE
+=================================
+
+Codigo: 101
+Nome: Teclado Gamer
+Quantidade: 15
+Preco: R$ 199,99
+Subtotal: R$ 2999,85
+---------------------------------
+Codigo: 102
+Nome: mouse
+Quantidade: 14
+Preco: R$ 150,00
+Subtotal: R$ 2100,00
+---------------------------------
+
+VALOR TOTAL DO ESTOQUE: R$ 5099,85
